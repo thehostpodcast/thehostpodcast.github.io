@@ -1,6 +1,6 @@
 ---
 title: Home
-masthead-image: "/uploads/_MG_0293.jpg"
+masthead-image: "/uploads/the-host-logo.jpg"
 layout: home
 ---
 
