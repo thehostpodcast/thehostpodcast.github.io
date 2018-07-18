@@ -1,6 +1,6 @@
 ---
 title: Home
-masthead-image: "/uploads/the-host-logo__med.jpg"
+masthead-image: "/uploads/the-host-logo__microphone-med.jpg"
 layout: home
 ---
 
