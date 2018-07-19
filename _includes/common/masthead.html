@@ -1,7 +1,9 @@
 <header class="masthead text-center text-white"
 
-        {% if include.image != blank %}
+        {% if include.image %}
          style="background-image: url({{ include.image }});"
+        {% else %}
+         style="background-image: url({{ site.masthead-image }});"
         {% endif %}
         >
 
