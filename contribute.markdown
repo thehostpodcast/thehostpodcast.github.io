@@ -1,6 +1,7 @@
 ---
 title: Contribute
 permalink: "/contribute/"
+position: 2
 layout: contribute
 ---
 
