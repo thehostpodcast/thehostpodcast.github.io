@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include common/head.html %}
+
+<body>
+
+<!-- Navigation -->
+{% include common/nav.html %}
+
+{% include common/masthead.html
+	image=page.masthead-image
+	heading="Artists"
+	subheading=""
+%}
+
+<section class="background-dark">
+	<div class="container">
+		<div class="row align-items-top">
+
+			{% for artist in site.artists %}
+
+				<div class="col-lg-3 col-md-4 col-12 mt-5 d-flex flex-column justify-content-between">
+					<div>
+						<!--photo-->
+						<div class="mx-5 mb-3">
+							{% if artist.photo %}
+								<img class="img-fluid rounded-circle" src="{{ artist.photo }}">
+							{% else %}
+								<img class="img-fluid rounded-circle" src="/img/artists/default-profile.jpg">
+							{% endif %}
+						</div>
+
+						<!--imdb-->
+						<div class="mb-2 text-center">
+							{% if artist.imdb %}
+								<a href="{{ artist.imdb }}" target="_blank">
+						          <span class="fa-stack fa-lg">
+						            <i class="fa fa-stack-2x fa-inverse fa-imdb imdb-yellow"></i>
+						          </span>
+								</a>
+							{% endif %}
+						</div>
+					</div>
+
+					<div>
+						<!--name-->
+						<div>
+							<h2>{{ artist.title }}</h2>
+						</div>
+
+						<!--bio-->
+						<div>{{ artist.content }}</div>
+					</div>
+				</div>
+
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+{% include common/footer.html %}
+{% include common/javascript.html %}
+</body>
+
+</html>
