@@ -11,10 +11,17 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+  -
+    scope:
+      type: "artists"
+    values:
+      photo:
+      imdb:
 email: thehostpodsubmissions@gmail.com
 description: The Host is a fictional late-night call-in show for the fringes of reality.
   Think Welcome to Night Vale meets Dr. Frasier Crane.
-baseurl: 
+baseurl:
 url: 
 markdown: kramdown
 theme: minima
