@@ -27,8 +27,13 @@
 
               <p>{{ content }}</p>
 
-              <div class="text-center mt-5">
-                {% include common/badges/itunes-badge.html %}
+              <div class="d-flex flex-row justify-content-around mt-5">
+                <div class="my-auto">
+                  {% include common/badges/itunes-badge.html %}
+                </div>
+                <div class="my-auto">
+                  {% include common/badges/google-play-badge.html %}
+                </div>
               </div>
 
             </div>
