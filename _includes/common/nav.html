@@ -3,7 +3,6 @@
 
 		<a class="navbar-brand" href="/">The Host</a>
 
-<!--
 		<button class="navbar-toggler"
 		        type="button"
 		        data-toggle="collapse"
@@ -17,13 +16,15 @@
 		<div class="collapse navbar-collapse" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 
-				<li class="nav-item">
-					<a class="nav-link" href="#">Sign Up</a>
-				</li>
-
+				{% for page in site.pages %}
+					{% if page.title != "Home" %}
+						<li class="nav-item">
+							<a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
+						</li>
+					{% endif %}
+				{% endfor %}
 			</ul>
 		</div>
--->
 
 	</div>
 </nav>
