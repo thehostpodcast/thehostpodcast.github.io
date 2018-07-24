@@ -1,5 +1,5 @@
 ---
-title: Contribute
+title: Submissions
 permalink: "/contribute/"
 position: 2
 layout: contribute
