@@ -19,38 +19,55 @@
 
 			{% for artist in site.artists %}
 
-				<div class="col-lg-3 col-md-4 col-12 mt-5 d-flex flex-column justify-content-between">
+				<div class="col-lg-3 col-md-4 col-12 mt-5 d-flex flex-column justify-content-start">
+
+					<!--name-->
 					<div>
-						<!--photo-->
-						<div class="mx-5 mb-3">
-							{% if artist.photo %}
-								<img class="img-fluid rounded-circle" src="{{ artist.photo }}">
-							{% else %}
-								<img class="img-fluid rounded-circle" src="/img/artists/default-profile.jpg">
-							{% endif %}
-						</div>
+						<h4>{{ artist.title }}</h4>
+					</div>
+
+					<!--links-->
+					<div class="d-flex flex-row justify-content-around mt-2">
+
+						<!--website-->
+						{% if artist.website %}
+							<a href="{{ artist.website }}" target="_blank">
+					          <span class="fa-stack fa-lg">
+					            <i class="fa fa-stack-2x fa-inverse fa-globe text-primary"></i>
+					          </span>
+							</a>
+						{% endif %}
 
 						<!--imdb-->
-						<div class="mb-2 text-center">
-							{% if artist.imdb %}
-								<a href="{{ artist.imdb }}" target="_blank">
-						          <span class="fa-stack fa-lg">
-						            <i class="fa fa-stack-2x fa-inverse fa-imdb imdb-yellow"></i>
-						          </span>
-								</a>
-							{% endif %}
-						</div>
+						{% if artist.imdb %}
+							<a href="{{ artist.imdb }}" target="_blank">
+					          <span class="fa-stack fa-lg">
+					            <i class="fa fa-stack-2x fa-inverse fa-imdb imdb-yellow"></i>
+					          </span>
+							</a>
+						{% endif %}
+
+						<!--instagram-->
+						{% if artist.instagram %}
+							<a href="{{ artist.instagram }}" target="_blank">
+					          <span class="fa-stack fa-lg">
+					            <i class="fa fa-stack-2x fa-inverse fa-instagram instagram-purple"></i>
+					          </span>
+							</a>
+						{% endif %}
+
+						<!--twitter-->
+						{% if artist.twitter %}
+							<a href="{{ artist.twitter }}" target="_blank">
+					          <span class="fa-stack fa-lg">
+					            <i class="fa fa-stack-2x fa-inverse fa-twitter-square twitter-blue"></i>
+					          </span>
+							</a>
+						{% endif %}
 					</div>
 
-					<div>
-						<!--name-->
-						<div>
-							<h2>{{ artist.title }}</h2>
-						</div>
-
-						<!--bio-->
-						<div>{{ artist.content }}</div>
-					</div>
+					<!--bio-->
+					<div class="mt-4">{{ artist.content }}</div>
 				</div>
 
 			{% endfor %}
