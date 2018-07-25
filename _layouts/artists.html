@@ -15,7 +15,7 @@
 
 <section class="background-dark">
 	<div class="container">
-		<div class="row align-items-top">
+		<div class="row align-items-top pb-5">
 
 			{% for artist in site.artists %}
 
@@ -26,12 +26,15 @@
 						<h4>{{ artist.title }}</h4>
 					</div>
 
+					<!--bio-->
+					<div>{{ artist.content }}</div>
+
 					<!--links-->
-					<div class="d-flex flex-row justify-content-around mt-2">
+					<div class="d-flex flex-row justify-content-start">
 
 						<!--website-->
 						{% if artist.website %}
-							<a href="{{ artist.website }}" target="_blank">
+							<a class="mr-2" href="{{ artist.website }}" target="_blank">
 					          <span class="fa-stack fa-lg">
 					            <i class="fa fa-stack-2x fa-inverse fa-globe text-primary"></i>
 					          </span>
@@ -40,7 +43,7 @@
 
 						<!--imdb-->
 						{% if artist.imdb %}
-							<a href="{{ artist.imdb }}" target="_blank">
+							<a class="mr-2" href="{{ artist.imdb }}" target="_blank">
 					          <span class="fa-stack fa-lg">
 					            <i class="fa fa-stack-2x fa-inverse fa-imdb imdb-yellow"></i>
 					          </span>
@@ -49,7 +52,7 @@
 
 						<!--instagram-->
 						{% if artist.instagram %}
-							<a href="{{ artist.instagram }}" target="_blank">
+							<a class="mr-2" href="{{ artist.instagram }}" target="_blank">
 					          <span class="fa-stack fa-lg">
 					            <i class="fa fa-stack-2x fa-inverse fa-instagram instagram-purple"></i>
 					          </span>
@@ -65,9 +68,6 @@
 							</a>
 						{% endif %}
 					</div>
-
-					<!--bio-->
-					<div class="mt-4">{{ artist.content }}</div>
 				</div>
 
 			{% endfor %}
