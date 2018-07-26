@@ -2,7 +2,7 @@
 title: Aimee McKay
 date: 2018-07-26 21:51:00 Z
 position: 13
-website: https://www.AimeeMcKay.com
+website: http://www.AimeeMcKay.com
 imdb: https://www.imdb.me/aimeemckay
 ---
 
