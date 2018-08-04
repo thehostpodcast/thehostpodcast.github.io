@@ -5,6 +5,9 @@ collections:
   artists:
     title: Artists
     output: true
+  episodes:
+    title: Episodes
+    output: true
   posts:
     title: Posts
     output: true
