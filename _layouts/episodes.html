@@ -45,6 +45,17 @@
 				</div>
 			</div>
 
+			{% if episode.pinecast-url %}
+				<div class="row">
+					<div class="mx-auto mb-5">
+						<audio controls>
+							<source src="{{episode.pinecast-url}}" type="audio/mpeg">
+							Your browser does not support the audio element.
+						</audio>
+					</div>
+				</div>
+			{% endif %}
+
 			{% if forloop.last == false %}
 				<hr/>
 			{% endif %}
