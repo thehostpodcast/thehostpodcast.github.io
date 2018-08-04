@@ -1,7 +1,7 @@
 ---
 title: Submissions
 permalink: "/submissions/"
-position: 2
+position: 3
 layout: submissions
 ---
 

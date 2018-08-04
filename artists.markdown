@@ -1,7 +1,7 @@
 ---
 title: Artists
 permalink: "/artists/"
-position: 1
+position: 2
 layout: artists
 ---
 
