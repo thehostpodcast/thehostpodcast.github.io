@@ -15,16 +15,26 @@
 
 		{% for episode in site.episodes %}
 
+			{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+			{% if thecycle == 'odd' %}
+				{% capture img-pos-class %}order-lg-2{% endcapture %}
+				{% capture content-pos-class %}order-lg-1{% endcapture %}
+			{% else %}
+				{% capture img-pos-class %}order-lg-1{% endcapture %}
+				{% capture content-pos-class %}order-lg-2{% endcapture %}
+			{% endif %}
+
 			<div class="row align-items-center">
 
-				<!--todo handle no image-->
-				<div class="col-lg-6 order-lg-2">
+				<!--image-->
+				<div class="col-lg-6 {{img-pos-class}}">
 					<div class="p-5">
 						<img class="img-fluid" src="{{ episode.image }}" alt="">
 					</div>
 				</div>
 
-				<div class="col-lg-6 order-lg-1">
+				<!--title and description-->
+				<div class="col-lg-6 {{content-pos-class}}">
 					<div class="p-5">
 
 						<h2 class="display-4">{{ episode.title }}</h2>
@@ -34,6 +44,10 @@
 					</div>
 				</div>
 			</div>
+
+			{% if forloop.last == false %}
+				<hr/>
+			{% endif %}
 
 		{% endfor %}
 	</div>

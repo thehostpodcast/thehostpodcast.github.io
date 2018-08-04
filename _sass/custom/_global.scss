@@ -3,6 +3,10 @@
 .background-dark {
   background-color: $gray-900;
   color: $white;
+
+  hr {
+    border-top-color: $white;
+  }
 }
 
 .imdb-yellow, a.imdb-yellow {
