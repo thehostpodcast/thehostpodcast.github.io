@@ -28,7 +28,7 @@ defaults:
     type: episodes
   values:
     image: 
-    pinecast-url:
+    pinecast-url: 
 masthead-image: "/uploads/the-host-logo__microphone-med.jpg"
 email: thehostpodsubmissions@gmail.com
 description: The Host is a fictional late-night call-in show for the fringes of reality.
