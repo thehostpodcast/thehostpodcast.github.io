@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include common/head.html %}
+
+<body>
+
+<!-- Navigation -->
+{% include common/nav.html %}
+
+{% include common/masthead.html %}
+
+<section class="background-dark">
+	<div class="container">
+
+		{% for episode in site.episodes %}
+
+			<div class="row align-items-center">
+
+				<!--todo handle no image-->
+				<div class="col-lg-6 order-lg-2">
+					<div class="p-5">
+						<img class="img-fluid" src="{{ episode.image }}" alt="">
+					</div>
+				</div>
+
+				<div class="col-lg-6 order-lg-1">
+					<div class="p-5">
+
+						<h2 class="display-4">{{ episode.title }}</h2>
+
+						<div>{{ episode.content }}</div>
+
+					</div>
+				</div>
+			</div>
+
+		{% endfor %}
+	</div>
+</section>
+
+{% include common/footer.html %}
+{% include common/javascript.html %}
+</body>
+
+</html>

@@ -9,7 +9,13 @@
 
 	<div class="masthead-content">
 		<div class="container">
-			<h1 class="masthead-heading mb-0">{{ include.heading }}</h1>
+			<h1 class="masthead-heading mb-0">
+				{% if include.heading %}
+					{{ include.heading }}
+				{% else %}
+					{{ page.title }}
+				{% endif %}
+			</h1>
 			<h2 class="masthead-subheading mb-0">{{ include.subheading }}</h2>
 			<!--<a href="#" class="btn btn-primary btn-xl rounded-pill mt-5">Learn More</a>-->
 		</div>
