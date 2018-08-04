@@ -1,6 +1,7 @@
 ---
 title: Episode 2
 date: 2018-08-04 01:13:00 Z
+image: "/uploads/the-host-logo__square.jpg"
 ---
 
 Released Jul 14, 2018
