@@ -2,6 +2,7 @@
 title: Episode 2
 date: 2018-08-04 01:13:00 Z
 image: "/uploads/the-host-logo__square.jpg"
+pinecast-url: https://pinecast.com/listen/d9fe7a2a-dfb0-4027-a640-de46bb47749e.mp3
 ---
 
 Released Jul 14, 2018
