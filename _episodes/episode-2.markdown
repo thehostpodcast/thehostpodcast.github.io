@@ -13,7 +13,7 @@ Call Two, "Undying Apology" - written by Jamie Ferguson, performed by Aimee McKa
 
 Call Three, "Interns Beware" - written by Amy Carver, performed by Hannah Martin.
 
-Intermission - written by Amy Carver, performed by Sarah Kenney. 
+Intermission, "Thank your AI" - written by Amy Carver.
 
 Call Four, "Rave On" - written by Katie Markovich, performed by Victoria Reynoso.
 
