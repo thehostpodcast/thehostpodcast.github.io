@@ -7,4 +7,22 @@ pinecast-url: https://pinecast.com/listen/eecffb24-2239-4a33-9ba9-ae97124162c8.m
 
 Released Jul 14, 2018
 
-Credits Episode Two 2.1 Parasite - written by Rachel Ewing, performed by Katie Marcovich and Sarah Kenney. 2.2 Undying Apology - written by Jamie Ferguson, performed by Aimee McKay, Amy Carver, and Sarah Kenney. 2.3 Interns Beware - written by Amy Carver, performed by Hannah Martin and Sarah Kenney. 2.I Intermission - written by Amy Carver, performed by Sarah Kenney. 2.4 Rave On - written by Katie Marcovich, performed by Victoria Reynoso and Sarah Kenney. Music by Steve Metz. This podcast is powered by Pinecast.
+Credits!
+
+Call One, "Parasite" - written by Rachel Ewing, performed by Katie Markovich. 
+
+Call Two, "Undying Apology" - written by Jamie Ferguson, performed by Aimee McKay and Amy Carver. 
+
+Call Three, "Interns Beware" - written by Amy Carver, performed by Hannah Martin.
+
+Intermission - written by Amy Carver, performed by Sarah Kenney. 
+
+Call Four, "Rave On" - written by Katie Markovich, performed by Victoria Reynoso.
+
+The Host is played by Sarah Kenney. 
+
+Music by Steve Metz. 
+
+Created by Amy Carver.
+
+This podcast is powered by Pinecast.
