@@ -7,4 +7,16 @@ pinecast-url: https://pinecast.com/listen/d9fe7a2a-dfb0-4027-a640-de46bb47749e.m
 
 Released Jul 14, 2018
 
-Credits Episode One 1.1 Zombie Mom - written by Amy Carver, performed by Rachel Ewing and Sarah Kenney. 1.2 Incubus - written by Sarah Kenney, performed by Amy Carver and Sarah Kenney. 1.I Intermission (Desert Ranger Evan) - written by Amy Carver, performed by Mitch Carver and Sarah Kenney. 1.3 The Amulet - written by Mitch Carver, performed by Kim Barrante and Sarah Kenney. 1.4 Brownies - written by Sarah Greenleaf, performed by David Seltzer, Sarah Greenleaf, and Sarah Kenney. Music by Steve Metz. This podcast is powered by Pinecast.
+Call One, "Zombie Mom" - written by Amy Carver, performed by Rachel Ewing. 
+
+Call Two, "Incubus" - written by Sarah Kenney, performed by Amy Carver.
+
+Intermission, "Evan the Desert Ranger" - written by Amy Carver, performed by Mitch Carver.
+
+Call Three, "The Amulet" - written by Mitch Carver, performed by Kim Barrante.
+
+Call Four, "Brownies" - written by Sarah Greenleaf, performed by David Seltzer. 
+
+The Host is played by Sarah Kenney.
+Music by Steve Metz. 
+Created by Amy Carver.
