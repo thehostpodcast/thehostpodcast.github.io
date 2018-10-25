@@ -7,8 +7,6 @@ pinecast-url: https://pinecast.com/listen/eecffb24-2239-4a33-9ba9-ae97124162c8.m
 
 Released Jul 14, 2018
 
-Credits!
-
 Call One, "Parasite" - written by Rachel Ewing, performed by Katie Markovich. 
 
 Call Two, "Undying Apology" - written by Jamie Ferguson, performed by Aimee McKay and Amy Carver. 
@@ -20,9 +18,5 @@ Intermission - written by Amy Carver, performed by Sarah Kenney.
 Call Four, "Rave On" - written by Katie Markovich, performed by Victoria Reynoso.
 
 The Host is played by Sarah Kenney. 
-
 Music by Steve Metz. 
-
 Created by Amy Carver.
-
-This podcast is powered by Pinecast.
