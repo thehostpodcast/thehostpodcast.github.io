@@ -1,0 +1,13 @@
+$spotify-green: #1DB954;
+
+.spotify-badge {
+
+  width: 133px;
+  border-radius: 8px;
+  border: solid 1px white;
+  background-color: $spotify-green;
+
+  img {
+    width: 90px;
+  }
+}
