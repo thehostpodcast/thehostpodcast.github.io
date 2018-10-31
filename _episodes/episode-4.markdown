@@ -1,7 +1,7 @@
 ---
 title: Episode 4
 date: 2018-10-31 14:53:00 Z
-image: "/uploads/Episode4_final.jpg"
+image: "/uploads/Episdoe4-1835_medres.jpg"
 pinecast-url: https://pinecast.com/listen/d3ba99e7-075b-48a8-bf0c-514a44bcd299.mp3
 ---
 
