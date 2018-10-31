@@ -18,5 +18,3 @@ Call Four, "Mina" - written by Kim Barrante, performed by Anna Chazelle.
 The Host is played by Sarah Kenney.
 Music by Steve Metz.
 Created by Amy Carver.
-
-https://thehostpod.com
