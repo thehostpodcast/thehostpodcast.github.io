@@ -1,7 +1,7 @@
 ---
 title: Episode 2
 date: 2018-08-04 01:13:00 Z
-image: "/uploads/the-host-logo__square.jpg"
+image: "/uploads/E07_final_square.jpg"
 pinecast-url: https://pinecast.com/listen/eecffb24-2239-4a33-9ba9-ae97124162c8.mp3
 ---
 
