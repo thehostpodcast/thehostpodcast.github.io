@@ -1,7 +1,7 @@
 ---
 title: Episode 3
 date: 2018-08-04 01:25:00 Z
-image: "/uploads/the-host-logo__square.jpg"
+image: "/uploads/TheHost_E3_001_BW-MG_3055.jpg"
 pinecast-url: https://pinecast.com/listen/8af45e8c-129d-4f94-b2d7-4dd4793df27d.mp3
 ---
 
