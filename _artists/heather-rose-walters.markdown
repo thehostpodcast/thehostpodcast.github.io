@@ -6,4 +6,4 @@ instagram: https://www.instagram.com/heatherrwalters/
 twitter: https://twitter.com/heatherrwalters
 ---
 
-is calling from Portland, Oregon where she works as a PR/Creative Content Manager and Editorial Manager for HER Magazine. She’s ghostwritten and edited over a dozen books, and her horror screenplay was a finalist in the Austin Film Festival and Final Draft Big Break screenwriting competitions. She also loves writing fiction, making/consuming VR film, and performing when you least expect it.
+is calling from Portland, Oregon where she works as the Lead Writer for Soma Games, helping to develop the Redwall video games based on the best-selling book series. She’s ghostwritten and edited over a dozen books, and her horror screenplay was a finalist in the Austin Film Festival and Final Draft Big Break screenwriting competitions. She also loves writing fiction, making/consuming VR film, and performing when you least expect it.
