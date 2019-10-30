@@ -34,8 +34,4 @@ Intro - written by Amy Carver.
 
 “Light” – written by Patrick Kueking, performed by Theodore Mark Martinez.
 
-Sarah Kenney plays the Host.
-
-Music by Steve Metz.
-
-Created, produced, and edited by Amy Carver.
+Sarah Kenney plays the Host. Music by Steve Metz. Created, produced, and edited by Amy Carver.
