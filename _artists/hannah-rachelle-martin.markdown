@@ -6,4 +6,4 @@ instagram: https://www.instagram.com/hannahrachellemartin/
 twitter: https://twitter.com/Hmart19
 ---
 
-is calling from a crappy apartment in Hollywood, California. She likes throwing money into the wind, and thus has studied acting, improv and writing at many, many places including UCLA, UCB and other acronyms starting with the letter "U." If you enjoy Hannah's voice, you might also like her podcast, "Baggage Claimed."
+is calling from a crappy apartment in Hollywood, California.  She is a writer and actress known for her roles in “girl who auditioned for that thing” and “you’ll get it next time.” Find her on Instagram drinking out of cups at @hannahdrinksfromcups or on Venmo at @HannahRachelleMartin. 
