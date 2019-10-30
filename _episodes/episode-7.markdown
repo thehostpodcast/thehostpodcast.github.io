@@ -1,6 +1,7 @@
 ---
 title: Episode 7
 date: 2018-12-12 15:33:00 Z
+position: 6
 image: "/uploads/Episode7_Square_EyesOn.jpg"
 pinecast-url: https://pinecast.com/listen/a210fa4e-f8f9-4263-900f-a6be959bc645.mp3
 ---

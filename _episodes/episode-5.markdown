@@ -1,6 +1,7 @@
 ---
 title: Episode 5
 date: 2018-11-14 15:44:00 Z
+position: 4
 image: "/uploads/Episode5-grid_lowres.jpg"
 pinecast-url: https://pinecast.com/listen/597ba3f1-6de4-450c-8d83-83bdaa9248b2.mp3
 ---

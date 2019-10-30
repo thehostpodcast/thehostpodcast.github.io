@@ -1,6 +1,7 @@
 ---
 title: Episode 8
 date: 2018-12-25 01:25:00 Z
+position: 7
 image: "/uploads/E08_good.jpg"
 pinecast-url: https://pinecast.com/listen/a3e8d395-8046-40ee-ac0e-70a13372b85d.mp3
 ---

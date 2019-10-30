@@ -1,6 +1,7 @@
 ---
 title: Episode 6
 date: 2018-11-28 16:05:00 Z
+position: 5
 image: "/uploads/Episode6_NoBorder.jpg"
 pinecast-url: https://pinecast.com/listen/da26e3f6-e0b3-4d51-9f44-501abba7b77b.mp3
 ---
