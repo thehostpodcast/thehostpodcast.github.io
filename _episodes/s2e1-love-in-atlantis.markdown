@@ -1,5 +1,5 @@
 ---
-title: S2E1 - Love in Atlantis
+title: 'S2E1: Love in Atlantis'
 date: 2019-10-30 00:01:00 Z
 tags:
 - pregnancy
