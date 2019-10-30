@@ -1,6 +1,8 @@
 ---
 title: Heather Rose Walters
 date: 2018-11-27 07:22:00 Z
+tags:
+- writer
 website: https://www.heatherrosewalters.com
 instagram: https://www.instagram.com/heatherrwalters/
 twitter: https://twitter.com/heatherrwalters
