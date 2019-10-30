@@ -20,8 +20,6 @@ Released Oct 30, 2019
 
 Episode Head: Amy Carver
 
-Intro - written by Amy Carver.
-
 “It’s Not Too Late” – written by Lucy Boone and Amy Carver, performed by April Brassard.
 
 “Getting Murdered” – written by Amy Carver, performed by Lizze Gordon and Jamie Ferguson.
