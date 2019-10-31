@@ -1,5 +1,5 @@
 ---
-title: Jesse Abbot Chin
+title: Jesse Abbott Chin
 date: 2019-10-30 06:34:00 Z
 website: https://www.ispot.tv/topic/actor-actress/Abc/jesse-abbott-chin
 imdb: https://m.imdb.com/name/nm4988264/?ref_=tt_cl_i12
