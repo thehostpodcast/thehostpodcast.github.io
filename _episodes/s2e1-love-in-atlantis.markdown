@@ -24,7 +24,7 @@ Episode Head: Amy Carver
 
 “Getting Murdered” – written by Amy Carver, performed by Lizze Gordon and Jamie Ferguson.
 
-“Some Questions about Clones” – written by Amy Carver, performed by Jesse Abbot Chin.
+“Some Questions about Clones” – written by Amy Carver, performed by Jesse Abbott Chin.
 
 “By Carl” – written by Ashley Griggs, performed by John Dellaporta.
 
