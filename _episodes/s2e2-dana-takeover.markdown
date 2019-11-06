@@ -25,6 +25,6 @@ Episode Heads: Sarah Kenney & Eric Kenney
 
 And the little ones! 
 
-“Exposed Shin Bone” – written by Sarah Kenney, performed by Mark Crawford. “Bore Me” – written by Sarah Kenney, performed by Greg Hundemer “There’s a Ghost in My Breadbox” – written by Sarah Kenney, performed by Fasih Ahsan. “Bleach” – written by Mitch Carver, performed by Susan Harmon. “Reanimated” – written by Mitch Carver, performed by Garret Guyot. “Revelations” – written by Mitch Carver, performed by Michael Farrow. “Knock-knock” – written by Amy Carver, performed by Sarah Katz Greenleaf. “Vinnie” – written by David Seltzer, performed by Jamie Ferguson “Mitt Romney” – written by Eric Kenney, performed by Mitch Carver.
+“Exposed Shin Bone” – written by Sarah Kenney, performed by Mark Crawford. “Bore Me” – written by Sarah Kenney, performed by Greg Hundemer “There’s a Ghost in My Breadbox” – written by Sarah Kenney, performed by Fasih Ahsan. “Bleach” – written by Mitch Carver, performed by Susan Harmon. “Reanimated” – written by Mitch Carver, performed by Garret Guyot. “Revelations” – written by Mitch Carver, performed by Michael Farrow. “Knock-knock” – written by Amy Carver, performed by Sarah Katz Greenleaf. “Vinnie” – written by David John Seltzer, performed by Jamie Ferguson “Mitt Romney” – written by Eric Kenney, performed by Mitch Carver.
 
 Sarah Kenney is The Host. Music by Steve Metz. Created, produced, and edited by Amy Carver.
