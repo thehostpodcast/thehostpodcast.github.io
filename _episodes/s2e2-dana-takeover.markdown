@@ -11,8 +11,6 @@ Released Nov 6, 2019
 
 Episode Heads: Sarah Kenney & Eric Kenney
 
-Intro – written by Sarah Kenney.
-
 “Scared and Near Stucco” – written by Sarah Kenney, performed by Becca Katz Greenleaf.
 
 “Lil Beethoven” – written by David John Seltzer, performed by David John Seltzer.
