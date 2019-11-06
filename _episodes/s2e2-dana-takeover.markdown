@@ -23,7 +23,7 @@ Intro – written by Sarah Kenney.
 
 “Chess Toaster” – written by Eric Kenney, performed by Eric Kenney.
 
-"I'm a Dog" - written and performed by David John Seltzer, Song beat: "Villain" - Quadeca Type Instrumental | Evil Freestyle Rap Beat | S Krueger
+"I'm a Dog" - written and performed by David John Seltzer, Song beat: "Villain" - Quadeca Type Instrumental, Evil Freestyle, Rap Beat, S Krueger
 
 And the little ones! 
 
