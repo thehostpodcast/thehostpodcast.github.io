@@ -15,6 +15,7 @@ tags:
 - Michelle Meyers
 - Jamie Ferguson
 - Aimee McKay
+- Katie Markovich
 image: "/uploads/LogoSquare_MG_0291-1a0cab.jpg"
 pinecast-url: https://pinecast.com/listen/15af3ab9-0fd9-460b-87c2-e86916b65bd0.mp3
 ---
