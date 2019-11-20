@@ -21,26 +21,26 @@ Released Nov 20, 2019
 
 Episode Head: Katie Markovich
 
-00:00 Part I: Check Big Green
+* 00:00 Part I: Check Big Green
 04:33 Part II: Get in Treble
 10:38 Part III: The Farm and Fleet
 21:20 Part IV: A Voice in the Dark
 37:53 Part V: I'm Seeing Aliens
-50:46 Epilogue: Any of Those Beckys 
+50:46 Epilogue: Any of Those Beckys
 
 Written by: Katie Markovich
 
-Jesse Abbott Chin is Jason. 
-Matt Rowan is Chaz. 
-Mitch Carver is Evan the Desert Ranger. 
-Amy Carver is Ranger Julie. 
-Jamie Ferguson is Ranger Dale. 
-Garret Guyot is Eli the Stock Boy. 
-Vivian Lu is Amelia. 
-Georgia Mckenzie is Pam. 
-Susan Harmon is Sheila. 
-Michael Farrow is Grant. 
-Greg Hundemer is Matthew. 
+Jesse Abbott Chin is Jason.
+Matt Rowan is Chaz.
+Mitch Carver is Evan the Desert Ranger.
+Amy Carver is Ranger Julie.
+Jamie Ferguson is Ranger Dale.
+Garret Guyot is Eli the Stock Boy.
+Vivian Lu is Amelia.
+Georgia Mckenzie is Pam.
+Susan Harmon is Sheila.
+Michael Farrow is Grant.
+Greg Hundemer is Matthew.
 Katie Markovich is Latisha DeMornay.
 
 Sarah Kenney is The Host.
