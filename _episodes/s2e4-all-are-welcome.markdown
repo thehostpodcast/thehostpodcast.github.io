@@ -22,11 +22,11 @@ Released Nov 20, 2019
 Episode Head: Katie Markovich
 
 * 00:00 Part I: Check Big Green
-04:33 Part II: Get in Treble
-10:38 Part III: The Farm and Fleet
-21:20 Part IV: A Voice in the Dark
-37:53 Part V: I'm Seeing Aliens
-50:46 Epilogue: Any of Those Beckys
+* 04:33 Part II: Get in Treble
+* 10:38 Part III: The Farm and Fleet
+* 21:20 Part IV: A Voice in the Dark
+* 37:53 Part V: I'm Seeing Aliens
+* 50:46 Epilogue: Any of Those Beckys
 
 Written by: Katie Markovich
 
