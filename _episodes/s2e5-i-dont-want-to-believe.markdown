@@ -14,7 +14,7 @@ tags:
 - sci-fi
 - x-files
 - the host
-image: "/uploads/LogoSquare_Small2_MG_0291.psd"
+image: "/uploads/LogoSquare_Small2_MG_0291.jpg"
 pinecast-url: https://pinecast.com/listen/01dbf969-3880-4735-8a12-3e5c40ebb9ae.mp3
 ---
 
